@@ -13,6 +13,7 @@ Intern Kovai is a task management dashboard designed for modern workflows. It su
 ## Screenshot
 
 ![Productivity dashboard](docs/images/dashboard-screenshot.png)
+![Login](docs\images\login-screenshot.png)
 
 ---
 
