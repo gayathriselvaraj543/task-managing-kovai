@@ -10,6 +10,10 @@ The app uses a React + Vite frontend with Firebase Google Authentication, and a 
 
 Intern Kovai is a task management dashboard designed for modern workflows. It supports secure user authentication, protected task APIs, responsive layouts, task filtering, optimistic UI updates, and clean module separation across frontend and backend.
 
+## Screenshot
+
+![Productivity dashboard](docs/images/dashboard-screenshot.png)
+
 ---
 
 ## Features
