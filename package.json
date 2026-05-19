@@ -1,0 +1,17 @@
+{
+  "name": "intern-kovai-app",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm --workspace frontend run dev\" \"npm --workspace backend run dev\"",
+    "start": "npm --workspace backend start",
+    "build:frontend": "npm --workspace frontend run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
